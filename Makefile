@@ -1,4 +1,3 @@
-# Copyright 2020 Darius Neatu <neatudarius@gmail.com>
 
 # compiler setup
 CC=gcc
